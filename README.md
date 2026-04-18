@@ -10,8 +10,8 @@
 Proyek ini bertujuan untuk menganalisis tingkat kepuasan pengguna aplikasi **SATU SEHAT Mobile** melalui klasifikasi teks ulasan berbasis rating. Mengingat volume ulasan yang mencapai lebih dari 100.000 data, proyek ini mengimplementasikan algoritma **Multinomial Naïve Bayes** dan pembobotan **TF-IDF** untuk memetakan persepsi publik ke dalam kategori sentimen Positif dan Negatif secara otomatis dan terukur.
 
 ## 📊 Dataset
-Dataset yang digunakan berasal dari Kaggle: [SATU SEHAT Mobile App Reviews](https://www.kaggle.com/datasets/nuricahyono/satu-sehat-mobile-app-reviews).
-* **Jumlah Data:** 100.000+ ulasan.
+Dataset yang digunakan berasal dari Kaggle: [Review Aplikasi SATU SEHAT Mobile](https://www.kaggle.com/datasets/nuricahyono/satusehat).
+* **Jumlah Data:** +- 100.000 ulasan.
 * **Pelabelan:** * Sentimen Negatif: Rating 1-2.
   * Sentimen Positif: Rating 4-5.
   * Rating 3 dieliminasi untuk menjaga ketajaman klasifikasi.
