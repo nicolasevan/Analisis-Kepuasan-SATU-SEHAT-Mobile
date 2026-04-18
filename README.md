@@ -1,8 +1,10 @@
 # Analisis Kepuasan Pengguna SATU SEHAT Mobile: Klasifikasi Teks dengan Multinomial Naïve Bayes
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## 👤 Identitas
+* **Nama:** Nicolas Evan
+* **NPM:** 2306229626
+* **Program Studi:** Statistika (Angkatan 2023)
+* **Instansi:** Universitas Indonesia
 
 ## 📌 Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis tingkat kepuasan pengguna aplikasi **SATU SEHAT Mobile** melalui klasifikasi teks ulasan berbasis rating. Mengingat volume ulasan yang mencapai lebih dari 100.000 data, proyek ini mengimplementasikan algoritma **Multinomial Naïve Bayes** dan pembobotan **TF-IDF** untuk memetakan persepsi publik ke dalam kategori sentimen Positif dan Negatif secara otomatis dan terukur.
@@ -23,7 +25,7 @@ Dataset yang digunakan berasal dari Kaggle: [SATU SEHAT Mobile App Reviews](http
 ## 📈 Hasil dan Temuan
 Model berhasil mencapai performa yang sangat andal untuk data ulasan publik:
 * **Akurasi Total:** 82,4%
-* **Recall (Sentimen Negatif):** 96% (Menunjukkan sensitivitas tinggi dalam mendeteksi keluhan teknis).
+* **Recall (Sentimen Negatif):** 96% (Sangat sensitif dalam mendeteksi keluhan teknis).
 * **Precision (Sentimen Positif):** 94,1%
 
 ### Insight Utama (N-Gram):
