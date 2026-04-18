@@ -1,4 +1,4 @@
-# Analisis Kepuasan Pengguna SATU SEHAT Mobile: Klasifikasi Teks dengan Multinomial Naïve Bayes
+# Analisis Kepuasan Pengguna pada Aplikasi SATU SEHAT Mobile dengan Metode Naïve Bayes Berbasis Klasifikasi Teks dan Rating
 
 ## 👤 Identitas
 * **Nama:** Nicolas Evan
